@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Playground.csproj", "{AA96058A-9D77-4B25-BBA3-3BD268AE5523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaygroundUnitTest", "PlaygroundUnitTest\PlaygroundUnitTest.csproj", "{BFE6C0B3-299A-4335-B23C-F43794F44942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA96058A-9D77-4B25-BBA3-3BD268AE5523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA96058A-9D77-4B25-BBA3-3BD268AE5523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA96058A-9D77-4B25-BBA3-3BD268AE5523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA96058A-9D77-4B25-BBA3-3BD268AE5523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE6C0B3-299A-4335-B23C-F43794F44942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE6C0B3-299A-4335-B23C-F43794F44942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE6C0B3-299A-4335-B23C-F43794F44942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE6C0B3-299A-4335-B23C-F43794F44942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180E7D11-811A-4C77-B9EB-028A5211E87F}
+	EndGlobalSection
+EndGlobal
